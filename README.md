@@ -4,7 +4,7 @@ Hi 👋 My name is Caleb Lima
 Welcome to my litle space of programing
 ---------------------------------------
 
-🧑🏽‍💻I'm a Full-Stack Web Development student at Trybe 📚 I'm a System of information student at UFRA
+🧑🏽‍💻I'm a Full-Stack Web Development student at Trybe <br> 📚 I'm a System of information student at UFRA
 
 * 🌍  I'm based in Pará, Brazil;
 * 🧠  I'm learning about TypeScript and Back-end;
