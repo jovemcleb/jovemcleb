@@ -1,7 +1,7 @@
 # <div align="center">Olá me chamo Caleb, sou um desenvolvedor Front-end no caminho Full-Stack 🧑🏽‍💻 </div>  
 ---------------------------------------
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50px" />
+<div height="200em" align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" width="450" align="center" />
 </div>  
 
 
