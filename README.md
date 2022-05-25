@@ -26,7 +26,7 @@
 <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://icon-library.com/images/nodejs-icon/nodejs-icon-3.jpg" alt="Node.js" height="50" /> 
+<img style="margin: 10px" src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" alt="Node.js" height="50" /> 
 </div>
 <div align="center">  
  
