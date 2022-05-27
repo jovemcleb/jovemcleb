@@ -13,7 +13,7 @@
 
 - 🧠 Aprendendo TypeScript, SQL e Node.js;  
 
-## Skills
+## Languages and Tools
 
 <div align="center">  
 <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="50" />  
