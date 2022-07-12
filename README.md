@@ -1,10 +1,10 @@
 # <div align="center">Olá me chamo Caleb, sou um desenvolvedor Front-end no caminho Full-Stack 🧑🏽‍💻 </div>  
 ---------------------------------------
 <div height="200em" align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" width="450" align="center" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" width="450" align="right" />
 </div>  
 
-
+## About me
 - 💚 Tryber 2/4;  
   
 
@@ -13,6 +13,7 @@
 
 - 🧠 Aprendendo TypeScript, SQL e Node.js;  
 
+<br></br>
 ## Languages and Tools
 
 <div align="center">  
