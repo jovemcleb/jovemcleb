@@ -14,6 +14,7 @@
 - 🧠 Aprendendo TypeScript, SQL e Node.js;  
 
 <br></br>
+<br></br>
 ## Languages and Tools
 
 <div align="center">  
