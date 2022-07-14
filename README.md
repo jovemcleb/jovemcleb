@@ -11,7 +11,7 @@
 - 📚 Estudante de Sistemas de Informação - UFRA;  
   
 
-- 🧠 Aprendendo TypeScript, SQL e Node.js;  
+<!--- - 🧠 Aprendendo TypeScript, SQL e Node.js;  -->
 
 <br></br>
 
