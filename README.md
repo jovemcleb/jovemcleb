@@ -1,4 +1,4 @@
-# <div align="center">Olá me chamo Caleb, sou um desenvolvedor Front-end no caminho Full-Stack 🧑🏽‍💻 </div>  
+# <div align="center">Olá me chamo Caleb, sou um desenvolvedor Full-Stack 🧑🏽‍💻 </div>  
 ---------------------------------------
 <div height="200em" align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" width="400" align="right" />
