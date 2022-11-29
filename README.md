@@ -1,12 +1,8 @@
 # <div align="center">Olá me chamo Caleb, sou um desenvolvedor 🧑🏽‍💻 </div>  
 ---------------------------------------
-<div height="200em" align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" width="400" align="right" />
-</div>  
 
 ## About me
-- 💚 Tryber 2/4;  
-  
+- 💚 Tryber 4/4;  
 
 - 📚 Estudante de Sistemas de Informação - UFRA;  
   
@@ -24,15 +20,13 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/rexxars/react-hexagon/master/logo/react-hexagon.png" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /> 
-<!--<img style="margin: 10px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.png" alt="Sequelize" height="50" /> -->
+<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-<img style="margin: 10px" src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png" alt="Node.js" height="50" /> 
-</div>
-<div align="center">  
- 
+<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50"   
+<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" height="55" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />          
+<!--<img style="margin: 10px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.png" alt="Sequelize" height="50" /> -->
 </div>
 
 
