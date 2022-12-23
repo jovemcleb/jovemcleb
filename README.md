@@ -16,22 +16,23 @@
 ## Languages and Tools
 
 <div align="center">  
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="50" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50"  />          
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="50" />
-<img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" height="50" /> 
-<img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" height="55" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />          
-<!--<img style="margin: 10px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.png" alt="Sequelize" height="50" /> -->
+  <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="50" />  
+  <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="50" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50"  />          
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-            Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" height="50">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="50" />
+  <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" height="50" /> 
+  <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" height="55" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />          
+  <!--<img style="margin: 10px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.png" alt="Sequelize" height="50" /> -->
 </div>
 
 
