@@ -19,7 +19,7 @@
   <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="50" /> 
 <img src="https://cdn.discordapp.com/attachments/764259751092682761/1055876747037528166/IMwwk2q6_400x400-removebg-preview.png" alt="Stiches" height="56">
-  <img alt="styled-component" src="https://camo.githubusercontent.com/5174ecc6e5da108f3afce948d39f9f11097c29e303fa6050c3aa3e16cc965459/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3136302f6170706c652f3139382f6e61696c2d706f6c6973685f31663438352e706e67" width="60" height="60"/>
+  <!--<img alt="styled-component" src="" width="60" height="60"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50"  />          
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-            Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
