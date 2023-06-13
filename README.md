@@ -60,7 +60,7 @@
 <img width="44%" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovemcleb&hide_border=true&layout=compact&theme=nightowl" />
 </div>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=jovemcleb&bg_color=0f172a&color=ffffff&line=a855f7&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jovemcleb&bg_color=0f172a&color=ffffff&line=a855f7&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
 
 <div align="center">
