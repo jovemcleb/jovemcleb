@@ -18,9 +18,8 @@
   <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="50" />  
   <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="50" /> 
-<img src="https://cdn.discordapp.com/attachments/764259751092682761/1055876747037528166/IMwwk2q6_400x400-removebg-preview.png" alt="Stiches" height="56">
-  <!--<img alt="styled-component" src="" width="60" height="60"/> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" height="50"  />          
+  <img alt="styled-component" src="https://cdn.discordapp.com/attachments/989139685865562162/1230132488601473084/1N0XV3gco7Ed4brMoxwdjVg.png?ex=66323528&is=661fc028&hm=4e6c3ec4ea28cd44e6f8b12433d507e6facfe3a7c9558269133fe4cadafef5df&" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="50"  />          
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-            Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
    <img alt="nextjs" width="50" height="50" src="https://assets.website-files.com/6129056efc746238daf580ad/627a7c293265949d610611dd_nextjs-boilerplate-logo.png"/>
@@ -33,7 +32,6 @@
   <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" height="55" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />          
-  <!--<img style="margin: 10px" src="https://symbols.getvecta.com/stencil_95/67_sequelize-icon.54c1e009e5.png" alt="Sequelize" height="50" /> -->
 </div>
 
 
