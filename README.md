@@ -29,7 +29,8 @@
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="50" />
   <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" height="50" /> 
-  <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" height="55" />  
+  <img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="MySQL" height="55" />
+    <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Postgresql" height="55" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />          
 </div>
