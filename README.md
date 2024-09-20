@@ -18,7 +18,7 @@
   <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="50" />  
   <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" height="50" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" height="50" /> 
-  <img alt="styled-component" src="https://cdn.discordapp.com/attachments/989139685865562162/1230132488601473084/1N0XV3gco7Ed4brMoxwdjVg.png?ex=66323528&is=661fc028&hm=4e6c3ec4ea28cd44e6f8b12433d507e6facfe3a7c9558269133fe4cadafef5df&" width="50" height="50"/>
+  <img alt="styled-component" src="https://www.styled-components.com/atom.png" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="50"  />          
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-            Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
