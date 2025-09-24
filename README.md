@@ -3,9 +3,9 @@
 
 ## About me
 
-- 💚 Tryber 4/4;  
+- 💚 Tryber 4/4;
 
-- 📚 Estudante de Sistemas de Informação - UFRA;
+- 📚 Graduando em Sistemas de Informação - UFRA;
   
 
 <!--- - 🧠 Aprendendo TypeScript, SQL e Node.js;  -->
